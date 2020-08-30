@@ -4,10 +4,10 @@
 
 Ir a [![language](https://img.shields.io/badge/language-ES-red)](#readme-es)
 
-This GitHub Page is based on a CC-BY-3.0 licensed design provided by [HTML5 UP!](https://html5up.net). A fully responsive, built on HTML5 and CSS3 customizable template.
+This GitHub Page is based on a CC-BY-3.0 licensed design provided by [HTML5 UP](https://html5up.net). A fully responsive, built on HTML5 and CSS3 customizable template.
 
 # README ES
 
 Go to [![language](https://img.shields.io/badge/language-EN-red)](#readme)
 
-Esta GitHub Page está basada en un diseño con licencia CC-BY-3.0 de [HTML5 UP!](https://html5up.net). Una plantilla adaptable y personalizable construida bajo HTML5 y CSS3.
+Esta GitHub Page está basada en un diseño con licencia CC-BY-3.0 de [HTML5 UP](https://html5up.net). Una plantilla adaptable y personalizable construida bajo HTML5 y CSS3.
