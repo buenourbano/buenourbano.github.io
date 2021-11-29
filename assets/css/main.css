@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #000000 !important;
+			color: #f2511b !important;
 		}
 
 	strong, b {
@@ -1785,7 +1785,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #000000;
+		color: #f2511b;
 		font-size: 3.5em;
 	}
 
@@ -2402,7 +2402,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #000000;
+				background: #f2511b;
 				border-radius: 100%;
 				color: #f2511b;
 				display: block;
@@ -2808,7 +2808,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #000000 !important;
+							color: #f2511b !important;
 						}
 
 					#header > nav ul li:first-child {
